@@ -4,6 +4,8 @@
 //https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IERC20.sol
 
 //Smart contract address on Kovan Testnet : 0x7052a6cE1bE69B15cEe5A907eD37CFc1804D16Ee
+//https://kovan.etherscan.io/address/0x7052a6ce1be69b15cee5a907ed37cfc1804d16ee#code
+
 pragma solidity ^0.7.0;
 
 interface IUniswap {
